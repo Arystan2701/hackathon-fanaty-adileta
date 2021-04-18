@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Запись экрана</string>
+    <string name="start_recording">Давай начнем</string>
+    <string name="stop_recording">Завершить</string>
+    <string name="standard_definition">Формат SD</string>
+    <string name="high_definition">Формат HD</string>
+    <string name="audio">Звук</string>
+    <string name="user_cancelled">Вы отменили запись экрана</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="thanks">Спасибо!</string>
+    <string name="loadZara">Скачайте мобильное приложение “Zara”</string>
+    <string name="setCursor">Установите курсор (модалка)</string>
+    <string name="completeToTask">Выполните поставленную задачу</string>
+    <string name="setVideoPermission">Нажимая кнопку “Давай начнем” вы даете доступ к видеозаписи экрана</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="startTest">Мы начали анализировать ваши действия. Спасибо что помогаете нам улучшить продукт.</string>
+    <string name="completeTest">Нажимая завершить вы отправляете результаты выполнения задачи.</string>
+    <string name="completed">Вы завершили. Ваше видео появится через несколько минут в галерее.</string>
+</resources>
